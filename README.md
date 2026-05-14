@@ -5,7 +5,7 @@
 👩‍💻 Full‑stack developer | MVC • ASP.NET Core • SQL Server • Modern JS  
 🚀 Passionate about building seamless front‑end & back‑end integrations  
 🔧 Skilled in troubleshooting, database optimization, and API workflows  
-🌱 Lifelong learner with resilience, creativity, and a love for polished design  
+🌱 Lifelong learner with resilience, creativity, and a love for polished designs 
 - 📫 How to reach me: [dubegrace513@gmail.com]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I design printable planners to track my coding progress — because visual milestones spark motivation and momentum.
